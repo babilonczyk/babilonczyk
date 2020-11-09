@@ -1,16 +1,13 @@
-### Hi there 👋
+##  Hi
 
-<!--
-**babilonczyk/babilonczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a ruby on rails developer looking for challenging projects that could broaden my horizons, as well as, sharpen my skillset. Energy drinks and coffee gives me power to do unachievable things.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on polearn -> https://github.com/babilonczyk/rails-polearn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Why? To learn/practice RSpec, Service Objects, Form Objects, OAuth
+
+## Old Projects:
+
+🚀 Ruby-blackjack -> https://github.com/babilonczyk/ruby-blackjack
+
+    Why? To Practice OOP in Ruby, RSpec
