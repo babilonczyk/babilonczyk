@@ -13,6 +13,6 @@ I'm a ruby on rails developer looking for challenging projects that could broade
     Why? To Practice OOP in Ruby, RSpec
     
 🚀 React Portfolio -> https://github.com/babilonczyk/react-portfolio   
-   ▶️ https://babilonczyk.github.io/react-portfolio/
+▶️ Live demo -> https://babilonczyk.github.io/react-portfolio/
 
     Why? To Show understanding of HTML, CSS/SCSS, and basic JS/React concepts
