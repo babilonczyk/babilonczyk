@@ -16,13 +16,3 @@ I'm a young developer looking for challenging projects that could broaden my hor
 ▶️ Live demo -> https://babilonczyk.github.io/react-portfolio/
 
     Why? To Show understanding of HTML, CSS/SCSS, and basic JS/React concepts
-
-## Planned Projects:
-
-📅  spotify-list 
-
-    Why? To get some experience with external API and react_on_rails gem.
-
-📅 justjoin.space 
-    
-    My first Pet Project.
