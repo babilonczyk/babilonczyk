@@ -8,7 +8,7 @@ I'm a young developer looking for challenging projects that could broaden my hor
 
 ## Old Projects:
 
-🚀 I’m currently working on motorcycles-list -> https://github.com/babilonczyk/motorcycles-list
+🚀 Motorcycles-list -> https://github.com/babilonczyk/motorcycles-list
 
     Why? To learn/practice using external APIs, Service Objects, RSpec and React/Redux in Rails
 
