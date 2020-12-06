@@ -6,11 +6,12 @@ I'm a young developer looking for challenging projects that could broaden my hor
 
     Why? To learn/practice RSpec, Service Objects, Form Objects, OAuth
 
-## Old Projects:
 
-🚀 Motorcycles-list -> https://github.com/babilonczyk/motorcycles-list
+🔭  I’m currently working on motorcycles-list -> https://github.com/babilonczyk/motorcycles-list
 
     Why? To learn/practice using external APIs, Service Objects, RSpec and React/Redux in Rails
+    
+## Old Projects:
 
 🚀 Ruby-blackjack -> https://github.com/babilonczyk/ruby-blackjack
 
