@@ -7,7 +7,7 @@ I'm a young developer looking for challenging projects that could broaden my hor
   
 #### Ruby/Rails Projects
 
-🚀 thesis-project -> https://github.com/babilonczyk/thesis-project
+🚀 thesis-project 🔄 -> https://github.com/babilonczyk/thesis-project
 
     Web app matching developers with companies -> "Blind dates with deveopers based on their projects"
 
