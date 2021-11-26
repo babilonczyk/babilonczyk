@@ -10,6 +10,8 @@ I'm a young developer looking for challenging projects that could broaden my hor
 🚀 thesis-project 🔄 -> https://github.com/babilonczyk/thesis-project
 
     Web app matching developers with companies -> "Blind dates with deveopers based on their projects"
+    
+    Its private. If you are recruiter, please ask me through linkedin to share it with you. It will be deployed soon.
 
 🚀 log-parser -> https://github.com/babilonczyk/log-parser
 
