@@ -28,7 +28,9 @@ I'm a young developer looking for challenging projects that could broaden my hor
     
 ➡️  Awesome Movie Search -> <a href="https://awesome-movie-search-react.herokuapp.com/" target="_blank">▶️ demo </a> <a href="https://github.com/babilonczyk/awesome-movie-search" target="_blank"> 📁 repository</a> 
 
-    Interview exercise I made in React and Typescript. The idea was to connect with the api and build a search like functionality.
+    Interview exercise I made in React and Typescript. The idea was to connect with the api 
+    
+    and build a search like functionality.
 
 #### Ruby/Rails Projects
 
