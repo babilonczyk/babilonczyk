@@ -8,41 +8,45 @@ I'm a young developer looking for challenging projects that could broaden my hor
   
 #### Typescript/Node.js/Express.js
   
-➡️  Crypto News Parser +  Api -> https://github.com/babilonczyk/crypto-news-parser-api
+➡️  Crypto News Parser +  Api -> <a href="https://github.com/babilonczyk/crypto-news-parser-api" target="_blank"> 📁 repository</a> 
 
     App that parses RSS feeds from various crypto news providers, saves them in the mongodb and 
     
     allows the access through api calls. Written in Typescript and  Express.js
 
-➡️  Babilonczyk Blog -> https://babilonczyk-blog.herokuapp.com
+➡️  Babilonczyk Blog -> <a href="https://babilonczyk-blog.herokuapp.com" target="_blank">▶️ demo </a> <a href="https://github.com/babilonczyk/babilonczyk-blog" target="_blank"> 📁 repository</a> 
 
     It's another personal project written in Typescript/Node.js/Express.js to learn more about these technologies. 
 
 #### Typescript/React.js
 
-➡️  Personal Portfolio -> https://babilonczyk.com
+➡️  Personal Portfolio -> <a href="https://babilonczyk.com" target="_blank">▶️ demo </a> <a href="https://github.com/babilonczyk/babilonczyk.github.io" target="_blank"> 📁 repository</a> 
 
     It was a project I've made in order to learn some Typescript with React.js. 
     
     It's a project I'll continue to improve and develop in the future.
+    
+➡️  Awesome Movie Search -> <a href="https://awesome-movie-search-react.herokuapp.com/" target="_blank">▶️ demo </a> <a href="https://github.com/babilonczyk/awesome-movie-search" target="_blank"> 📁 repository</a> 
+
+    Interview exercise I made in React and Typescript. The idea was to connect with the api and build a search like functionality.
 
 #### Ruby/Rails Projects
 
-➡️ thesis-project -> https://github.com/babilonczyk/thesis-project
+➡️ thesis-project -> <a href="https://github.com/babilonczyk/thesis-project" target="_blank"> 📁 repository</a> 
 
     Web app matching developers with companies -> "Blind dates with deveopers based on their projects"
     
     Its private. If you are recruiter, please ask me through linkedin to share it with you. It will be deployed soon.
 
-➡️ log-parser -> https://github.com/babilonczyk/log-parser
+➡️ log-parser -> <a href="https://github.com/babilonczyk/log-parser" target="_blank"> 📁 repository</a> 
 
     Practising some simple file parsing
 
-➡️ motorcycles-list -> https://github.com/babilonczyk/motorcycles-list
+➡️ motorcycles-list -> <a href="https://github.com/babilonczyk/motorcycles-list" target="_blank"> 📁 repository</a>   
 
     Learning using external APIs, Service Objects, RSpec and React/Redux in Rails
 
-➡️ Ruby-blackjack -> https://github.com/babilonczyk/ruby-blackjack
+➡️ Ruby-blackjack -> <a href="https://github.com/babilonczyk/ruby-blackjack" target="_blank"> 📁 repository</a> 
 
     Practising OOP in Ruby, RSpec
     
