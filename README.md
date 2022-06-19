@@ -14,13 +14,13 @@ I'm a young developer looking for challenging projects that could broaden my hor
     
     allows the access through api calls. Written in Typescript and  Express.js
 
-➡️  Babilonczyk Blog -> <a href="https://babilonczyk-blog.herokuapp.com" target="_blank">▶️ demo </a> <a href="https://github.com/babilonczyk/babilonczyk-blog" target="_blank"> 📁 repository</a> 
+➡️  Babilonczyk Blog ->  <a href="https://github.com/babilonczyk/babilonczyk-blog" target="_blank"> 📁 repository</a> 
 
     It's another personal project written in Typescript/Node.js/Express.js to learn more about these technologies. 
 
 #### Typescript/React.js
 
-➡️  Personal Portfolio -> <a href="https://babilonczyk.com" target="_blank">▶️ demo </a> <a href="https://github.com/babilonczyk/babilonczyk.github.io" target="_blank"> 📁 repository</a> 
+➡️  Personal Portfolio -> <a href="https://github.com/babilonczyk/babilonczyk.github.io" target="_blank"> 📁 repository</a> 
 
     It was a project I've made in order to learn some Typescript with React.js. 
     
