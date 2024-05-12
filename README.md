@@ -81,4 +81,4 @@ Hi, my name is Jan and I'm a full-stack software developer with over 3yr of expe
 
 ## Socials:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 35px;" />](https://www.linkedin.com/in/oskardudycz/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 35px;" />](https://www.linkedin.com/in/jan-piotrzkowski/)
