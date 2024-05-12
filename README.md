@@ -49,33 +49,35 @@ Hi, my name is Jan and I'm a full-stack software developer with over 3yr of expe
 
 ## I've worked with:
 
-<img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0; float: left;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0; float: left;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0; float: left;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" />
-
-<img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" />
+<div>
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" />
+  
+  <img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" />
+</div>
 
 ## Socials:
 
