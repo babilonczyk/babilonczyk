@@ -8,7 +8,7 @@ Hi, my name is Jan and I'm a full-stack software developer with over 3yr of expe
 
 `DEC '23` - `currently` - [Quickmail.com](https://quickmail.com/)
 
-<details style='margin: 8px 0 20px 0'>
+<details style='margin: 4px 0 14px 0'>
   <summary>More info</summary>
   <p style='margin: 8px 0;'>
     Working as a core team member in the quickmail - Cold Email Software
@@ -17,7 +17,7 @@ Hi, my name is Jan and I'm a full-stack software developer with over 3yr of expe
 
 `APR '21` - `DEC '23` - [Ragnarson Softwarehouse](https://ragnarson.com/)
 
-<details style='margin: 8px 0 20px 0'>
+<details style='margin: 4px 0 14px 0'>
   <summary>More info</summary>
   <p style='margin: 8px 0;'>
     Most of the time I've spent working for a german starup with a solution for doing cost allocation based on automated metres readouts. The tool collected data from physical metres, decoded and processed the data to generate consumption values and cost allocation for tenants. I've also held an extra role of Project Coordinator for some time.
@@ -26,7 +26,7 @@ Hi, my name is Jan and I'm a full-stack software developer with over 3yr of expe
 
 `JAN '21` - `FEB '22` - The lemkin.pl project at AGH University of Science and Technology
 
-<details style='margin: 8px 0 20px 0'>
+<details style='margin: 4px 0 14px 0'>
   <summary>More info</summary>
   <p style='margin: 8px 0;'>
     Project realized under the AGH University of Science and Technology in Cracow. I've been responsible for building and extendeeing rest api with ruby using hanami framework.
