@@ -33,6 +33,17 @@ Hi, my name is Jan and I'm a full-stack software developer with over 3yr of expe
 
 ## Projects:
 
+[<img src='./dev.png' style='display: block; height: 60px; border-radius: 5%'>](https://janpiotrzkowski.com)
+
+<details style='margin: 8px 0;'>
+  <summary>Jan Piotrzkowski - Portfolio</summary>
+  <div style='margin: 8px 0; padding-top: 8px;'>
+    <br>
+    <b>TLTR: Go there if you want to learn a bit more about me, my experience, etc. - </b>
+    <a href='https://janpiotrzkowski.com'>LINK</a>
+  </div>
+</details>
+
 [<img src='./p-sc.png' style='display: block; height: 60px; border-radius: 5%'>](https://github.com/devs-on-remote/shortcut)
 
 <details style='margin: 8px 0;'>
@@ -44,17 +55,6 @@ Hi, my name is Jan and I'm a full-stack software developer with over 3yr of expe
     <p style='margin: 8px 0;'>
      I've started being tired of navigating to some directories over and over again. At some point I've started doing custom scripts and used aliases to make my workflow a bit better, but I didn't really like that approach for some reason. I thought having CLI tool for creating and managing those scripts would be much easier (more intuitive) and so I have quickly build a prototype, added a homebrew formula and made it available.
     </p>
-  </div>
-</details>
-
-[<img src='./dev.png' style='display: block; height: 60px; border-radius: 5%'>](https://janpiotrzkowski.com)
-
-<details style='margin: 8px 0;'>
-  <summary>Jan Piotrzkowski - Portfolio</summary>
-  <div style='margin: 8px 0; padding-top: 8px;'>
-    <br>
-    <b>TLTR: Go there if you want to learn a bit more about me, my experience, etc. - </b>
-    <a href='https://janpiotrzkowski.com'>LINK</a>
   </div>
 </details>
 
