@@ -18,7 +18,7 @@ Hi, my name is Jan and I'm a full-stack software developer with over 3yr of expe
 <details style='margin: 4px 0 14px 0'>
   <summary>More info</summary>
   <p style='margin: 8px 0;'>
-    Most of the time I've spent working for a german starup with a solution for doing cost allocation based on automated metres readouts. The tool collected data from physical metres, decoded and processed the data to generate consumption values and cost allocation for tenants. I've also held an extra role of Project Coordinator for some time.
+    Most of the time I've spent working for a starup with a solution for doing cost allocation based on automated metres readouts. The tool collected data from physical metres, decoded and processed the data to generate consumption values and cost allocation for tenants. I've also held an extra role of Project Coordinator for some time.
   </p>
 </details>
 
@@ -31,32 +31,6 @@ Hi, my name is Jan and I'm a full-stack software developer with over 3yr of expe
   </p>
 </details>
 
-## Projects:
-
-[<img src='./dev.png' style='display: block; height: 60px; border-radius: 5%'>](https://janpiotrzkowski.com)
-
-<details style='margin: 8px 0;'>
-  <summary>Jan Piotrzkowski - Portfolio</summary>
-  <div style='margin: 8px 0; padding-top: 8px;'>
-    <br>
-    <b>TLTR: Go there if you want to learn a bit more about me, my experience, etc. - </b>
-    <a href='https://janpiotrzkowski.com'>LINK</a>
-  </div>
-</details>
-
-[<img src='./p-sc.png' style='display: block; height: 60px; border-radius: 5%'>](https://github.com/devs-on-remote/shortcut)
-
-<details style='margin: 8px 0;'>
-  <summary>Shortcut your way through the terminal</summary>
-  <div style='margin: 8px 0;'>
-    <br>
-    <b>TLTR: Shortcut - record, save & execute your most used scripts in the terminal - </b> <a href='https://github.com/devs-on-remote/shortcut'>LINK</a>
-    <br><br>
-    <p style='margin: 8px 0;'>
-     I've started being tired of navigating to some directories over and over again. At some point I've started doing custom scripts and used aliases to make my workflow a bit better, but I didn't really like that approach for some reason. I thought having CLI tool for creating and managing those scripts would be much easier (more intuitive) and so I have quickly build a prototype, added a homebrew formula and made it available.
-    </p>
-  </div>
-</details>
 
 ## I've worked with:
 
