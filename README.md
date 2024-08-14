@@ -1,6 +1,6 @@
 ## Hi there 👋🏻
 
-Hi, my name is Jan and I'm a full-stack software developer with over 3yr of experience. I like working on small and big codebases, tackling the unknown. My goal is to be a generalist who can bring value regardless of the stage the project is in
+Hi, my name is Jan and I'm a full-stack software developer with over 3yr of experience. I like working on small and big codebases, tackling the unknown. My goal is to be a generalist who can bring value regardless of the stage the project is in.
 
 ## Exp log:
 
