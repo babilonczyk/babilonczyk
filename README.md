@@ -1,6 +1,6 @@
 ## Hi there 👋🏻
 
-Hi, my name is Jan and I'm a full-stack software engineer with over 4yr of experience. I like working on small and big codebases, tackling the unknown. My goal is to be a generalist who can bring value regardless of the stage the project is in.
+I’m a Software Developer with 4 years of experience building scalable solutions for startups and product companies. I take ownership in delivering features and improving codebases. I’m honest, easy to work with, and always keep the bigger business picture and its users in mind.
 
 ## Exp log:
 
