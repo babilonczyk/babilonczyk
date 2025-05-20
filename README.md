@@ -4,7 +4,7 @@ I’m a Software Developer with 4 years of experience building scalable solution
 
 ## Exp log:
 
-`DEC '23` - `currently` - [Quickmail.com](https://quickmail.com/)
+`DEC '23` - `MAY '25` - [Quickmail.com](https://quickmail.com/)
 
 <details style='margin: 4px 0 14px 0'>
   <summary>More info</summary>
