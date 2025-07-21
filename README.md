@@ -62,6 +62,15 @@ I’m a Software Developer with 4 years of experience building scalable solution
   <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" />
   
   <img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" />
+
+  <img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+
+  <img style='width:30px; margin: 0 5px 5px 0' src="https://www.svgrepo.com/show/354344/sidekiq-icon.svg" />
+
+  <img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+
+  <img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
 </div>
 
 ## Socials:
