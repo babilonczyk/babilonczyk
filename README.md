@@ -71,6 +71,7 @@ I’m a Software Developer with 4 years of experience building scalable solution
 
   <img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
+  <img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 </div>
 
 ## Socials:
