@@ -22,7 +22,7 @@ I’m a Software Developer with 4 years of experience building scalable solution
   </p>
 </details>
 
-`JAN '21` - `FEB '22` - The lemkin.pl project at AGH University of Science and Technology
+`JAN '21` - `FEB '22` - The lemkin.pl project for AGH University of Science and Technology
 
 <details style='margin: 4px 0 14px 0'>
   <summary>More info</summary>
