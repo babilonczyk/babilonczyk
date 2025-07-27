@@ -1,6 +1,12 @@
+# Jan Piotrzkowski - Full-Stack Software Engineer | Ruby on Rails
+
 ## Hi there 👋🏻
 
 I’m a Software Developer with 4 years of experience building scalable solutions for startups and product companies. I take ownership in delivering features and improving codebases. I’m honest, easy to work with, and always keep the bigger business picture and its users in mind.
+
+Most of my experience is in full-stack development using **Ruby on Rails**, **JavaScript**, and **TypeScript**. I've contributed to SaaS platforms, email automation tools, and data-heavy internal systems. I enjoy working closely with product teams, shipping high-impact features, and improving legacy code through clean architecture and test coverage.
+
+Lately, I'm exploring areas like **bioinformatics**, **Python scripting**, and **cloud automation**, combining my engineering background with curiosity for science and data.
 
 ## Business Domains
 
