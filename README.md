@@ -4,7 +4,7 @@
 
 I’m a Software Developer with 4 years of experience building scalable solutions for startups and product companies. I take ownership in delivering features and improving codebases. I’m honest, easy to work with, and always keep the bigger business picture and its users in mind.
 
-Most of my experience is in full-stack development using **Ruby on Rails**, **JavaScript**, and **TypeScript**. I've contributed to SaaS platforms, email automation tools, and data-heavy internal systems. I enjoy working closely with product teams, shipping high-impact features, and improving legacy code through clean architecture and test coverage.
+Most of my experience is in full-stack development using **Ruby on Rails**, **Angular**, **GraphQL**, **React**, and **Vue**. I've contributed to SaaS platforms, email automation tools, and data-heavy internal systems. I enjoy working closely with product teams, shipping high-impact features, and improving legacy code through clean architecture and test coverage.
 
 Lately, I'm exploring areas like **bioinformatics**, **Python scripting**, and **cloud automation**, combining my engineering background with curiosity for science and data.
 
@@ -63,48 +63,27 @@ Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property T
 ## I've worked with:
 
 <div>
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0; float: left;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" />
-  
-  <img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" />
-
-  <img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-
-  <img style='width:30px; margin: 0 5px 5px 0' src="https://www.svgrepo.com/show/354344/sidekiq-icon.svg" />
-
-  <img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-
-  <img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
-  <img style='width:30px; margin: 0 5px 5px 0' src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" />
-
-  <img style='width:30px; margin: 0 5px 5px 0' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  
+  <img alt="Ruby" title="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Ruby on Rails" title="Ruby on Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="RSpec" title="RSpec" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Angular" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="GraphQL" title="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="TailwindCSS" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Sass" title="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Vue.js" title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Heroku" title="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Homebrew" title="Homebrew" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Redis" title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Sidekiq" title="Sidekiq" src="https://www.svgrepo.com/show/354344/sidekiq-icon.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="AWS" title="Amazon Web Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Rust" title="Rust" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="React" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
 </div>
 
 ## Socials:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 35px;" />](https://www.linkedin.com/in/jan-piotrzkowski/)
+[<img alst="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 35px;" />](https://www.linkedin.com/in/jan-piotrzkowski/)
