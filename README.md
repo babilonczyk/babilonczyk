@@ -35,6 +35,16 @@ Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property T
   </p>
 </details>
 
+## Certifications:
+
+<div>
+  <img style='width:50px; margin: 0 5px 5px 0; float: left; border-radius: 20px; padding: 5px; background-color: #fff;' src="https://github.com/user-attachments/assets/914f6ce6-465a-4cfa-9cd5-149ee94f4b18">
+  </img>
+   <img style='width:50px; margin: 0 5px 5px 0; float: left; border-radius: 20px; padding: 5px; background-color: #fff;' src="https://github.com/user-attachments/assets/060b8887-8e0b-400f-84fc-8e212870a7eb">
+  </img>
+   <img style='width:50px; margin: 0 5px 5px 0; float: left; border-radius: 20px; padding: 5px; background-color: #fff;' src="https://github.com/user-attachments/assets/8644f42f-cb5b-4804-a273-31d0ea1601c8">
+  </img>
+</div>
 
 ## I've worked with:
 
