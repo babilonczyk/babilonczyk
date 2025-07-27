@@ -87,3 +87,7 @@ Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property T
 ## Socials:
 
 [<img alst="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 35px;" />](https://www.linkedin.com/in/jan-piotrzkowski/)
+
+---
+
+💡 If you're looking for a Ruby on Rails developer with full-stack experience in SaaS, PropTech, or EnergyTech, feel free to reach out. I'm also exploring Python for bioinformatics and data workflows. This GitHub includes projects that reflect both my production experience and ongoing curiosity for science, code, and automation.
