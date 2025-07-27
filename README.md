@@ -2,6 +2,10 @@
 
 I’m a Software Developer with 4 years of experience building scalable solutions for startups and product companies. I take ownership in delivering features and improving codebases. I’m honest, easy to work with, and always keep the bigger business picture and its users in mind.
 
+## Domains
+
+Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property Tech**, **Energy Tech**
+
 ## Exp log:
 
 `DEC '23` - `MAY '25` - [Quickmail.com](https://quickmail.com/)
