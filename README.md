@@ -8,6 +8,8 @@ Most of my experience is in full-stack development using **Ruby on Rails**, **An
 
 Lately, I'm exploring areas like **bioinformatics**, **Python scripting**, and **cloud automation**, combining my engineering background with curiosity for science and data.
 
+#openforwork
+
 ## Business Domains
 
 Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property Tech**, **Energy Tech**
