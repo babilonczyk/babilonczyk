@@ -2,7 +2,7 @@
 
 ## Hi there 👋🏻
 
-I’m a Software Developer with 4 years of experience building scalable solutions for startups and product companies. I take ownership in delivering features and improving codebases. I’m honest, easy to work with, and always keep the bigger business picture and its users in mind.
+Hi, I’m Jan - a product-focused Software Engineer with 4 years of experience shipping SaaS features, and now building my way into the future of biotech and BioAI. I take ownership in delivering features and improving codebases. I’m honest, easy to work with, and always keep the bigger business picture and its users in mind.
 
 Most of my experience is in full-stack development using **Ruby on Rails**, **Angular**, **GraphQL**, **React**, and **Vue**. I've contributed to SaaS platforms, email automation tools, and data-heavy internal systems. I enjoy working closely with product teams, shipping high-impact features, and improving legacy code through clean architecture and test coverage.
 
@@ -92,4 +92,4 @@ Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property T
 
 ---
 
-💡 If you're looking for a Ruby on Rails developer with full-stack experience in SaaS, PropTech, or EnergyTech, feel free to reach out. I'm also exploring Python for bioinformatics and data workflows. This GitHub includes projects that reflect both my production experience and ongoing curiosity for science, code, and automation.
+If you're hiring in biotech, BioAI, or Python + backend development - let’s talk!
