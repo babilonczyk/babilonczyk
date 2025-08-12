@@ -1,4 +1,4 @@
-# Jan Piotrzkowski - Full-Stack Software Engineer | Ruby on Rails
+# Jan Piotrzkowski - Full-Stack Software Engineer
 
 ## Hi there 👋🏻
 
@@ -67,6 +67,8 @@ Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property T
 <div>
   <img alt="Ruby" title="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="Ruby on Rails" title="Ruby on Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Python" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="FastAPI" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="RSpec" title="RSpec" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
