@@ -122,7 +122,7 @@ Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property T
     <img alst="LinkedIn Social Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 35px;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/jan-piotrzkowski/" style="display:block; float: left;">
+  <a href="https://huggingface.co/babilonczyk" style="display:block; float: left;">
     <img alst="Higging Face Social Profile" src="social-hf.png" style="height: 35px;" />
   </a>
 </div>
