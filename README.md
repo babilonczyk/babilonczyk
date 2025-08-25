@@ -117,8 +117,15 @@ Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property T
 </div>
 
 ## Socials:
+<div>
+  <a href="https://www.linkedin.com/in/jan-piotrzkowski/" style="display:block; float: left;">
+    <img alst="LinkedIn Social Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 35px;" />
+  </a>
 
-[<img alst="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 35px;" />](https://www.linkedin.com/in/jan-piotrzkowski/)
+  <a href="https://www.linkedin.com/in/jan-piotrzkowski/" style="display:block; float: left;">
+    <img alst="Higging Face Social Profile" src="social-hf.png" style="height: 35px;" />
+  </a>
+</div>
 
 ---
 
