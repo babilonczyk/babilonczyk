@@ -88,6 +88,7 @@ Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property T
   <img alt="Hanami" title="Hanami" src="https://avatars.githubusercontent.com/u/3210273?s=280&v=4" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="Pandas" title="Pandas" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="MatplotLib" title="MatplotLib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Scikit-learn" title="Scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
 </div>
 
 ### DBs
