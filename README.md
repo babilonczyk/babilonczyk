@@ -121,4 +121,4 @@ Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property T
 
 ---
 
-If you're hiring in biotech, BioAI, or Python + backend development - let’s talk!
+If you're hiring in biotech business domain, AL/ML roles or for Ruby/Python full-stack projects - let’s talk!
