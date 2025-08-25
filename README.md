@@ -64,28 +64,54 @@ Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property T
 
 ## I've worked with:
 
+### Languages
+
 <div>
   <img alt="Ruby" title="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="Ruby on Rails" title="Ruby on Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="FastAPI" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="RSpec" title="RSpec" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="Angular" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="GraphQL" title="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="TailwindCSS" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="Sass" title="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="Vue.js" title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="Heroku" title="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="Homebrew" title="Homebrew" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="Redis" title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="Sidekiq" title="Sidekiq" src="https://www.svgrepo.com/show/354344/sidekiq-icon.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
-  <img alt="AWS" title="Amazon Web Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="Rust" title="Rust" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+</div>
+
+### Frameworks
+
+<div>
+  <img alt="Ruby on Rails" title="Ruby on Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="FastAPI" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Angular" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="TailwindCSS" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Vue.js" title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
   <img alt="React" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Hanami" title="Hanami" src="https://avatars.githubusercontent.com/u/3210273?s=280&v=4" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Pandas" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="MatplotLib" title="MatplotLib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+</div>
+
+### DBs
+
+ <div>
+  <img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Redis" title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="ChromaDB" title="ChromaDB" src="https://miro.medium.com/v2/1*d2XUNgrLw7687CDfXx9-Dw.png" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+
+ </div>
+
+### Infra & Cloud
+
+<div>
+  <img alt="Heroku" title="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="AWS" title="Amazon Web Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+</div>
+
+### Tools & Other
+
+<div>
+  <img alt="RSpec" title="RSpec" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Homebrew" title="Homebrew" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
+  <img alt="Sidekiq" title="Sidekiq" src="https://www.svgrepo.com/show/354344/sidekiq-icon.svg" style="width:30px; margin: 0 5px 5px 0; float: left;" />
 </div>
 
 ## Socials:
