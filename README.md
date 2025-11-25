@@ -2,11 +2,11 @@
 
 ## Hi there 👋🏻
 
-Hi, I’m Jan - a product-focused Software Engineer with 4 years of experience shipping SaaS features, and now building my way into the future of biotech and BioAI. I take ownership in delivering features and improving codebases. I’m honest, easy to work with, and always keep the bigger business picture and its users in mind.
+Hi 👋
 
-Most of my experience is in full-stack development using **Ruby on Rails**, **Angular**, **GraphQL**, **React**, and **Vue**. I've contributed to SaaS platforms, email automation tools, and data-heavy internal systems. I enjoy working closely with product teams, shipping high-impact features, and improving legacy code through clean architecture and test coverage.
+I’m a dedicated software developer with 4 years of full-stack development experience. I've worked in software house for startups and contributed to a product company.
 
-Lately, I'm exploring areas like **bioinformatics**, **Python scripting**, and **cloud automation**, combining my engineering background with curiosity for science and data.
+Focused on growing within dynamic teams and driving impactful development projects.
 
 #OpenForWork
 
