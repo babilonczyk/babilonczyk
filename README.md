@@ -2,8 +2,6 @@
 
 ## Hi there 👋🏻
 
-Hi 👋
-
 I’m a dedicated software developer with 4 years of full-stack development experience. I've worked in software house for startups and contributed to a product company.
 
 Focused on growing within dynamic teams and driving impactful development projects.
