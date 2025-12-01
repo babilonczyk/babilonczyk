@@ -6,12 +6,6 @@ I’m a dedicated software developer with 4 years of full-stack development expe
 
 Focused on growing within dynamic teams and driving impactful development projects.
 
-#OpenForWork
-
-## Business Domains
-
-Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property Tech**, **Energy Tech**
-
 ## Exp log:
 
 `DEC '23` - `MAY '25` - [Quickmail.com](https://quickmail.com/)
@@ -125,7 +119,3 @@ Experienced in business domains: **SaaS**, **Cold Email Outreach**, **Property T
     <img alst="Higging Face Social Profile" src="social-hf.png" style="height: 35px;" />
   </a>
 </div>
-
----
-
-If you're hiring in biotech business domain, AL/ML roles or for Ruby/Python full-stack projects - let’s talk!
