@@ -2,7 +2,7 @@
 
 ## Hi there 👋🏻
 
-I’m a dedicated software developer with 4 years of full-stack development experience. I've worked in software house for startups and contributed to a product company.
+I’m a dedicated software developer with 5 years of full-stack development experience. I've worked in software house for startups and contributed to a product company.
 
 Focused on growing within dynamic teams and driving impactful development projects.
 
@@ -13,7 +13,7 @@ Focused on growing within dynamic teams and driving impactful development projec
 <details style='margin: 4px 0 14px 0'>
   <summary>More info</summary>
   <p style='margin: 8px 0;'>
-    ...
+    Expanding the app with new features & building mobile apps for clinets using CapacitorJS
   </p>
 </details>
 
@@ -22,7 +22,7 @@ Focused on growing within dynamic teams and driving impactful development projec
 <details style='margin: 4px 0 14px 0'>
   <summary>More info</summary>
   <p style='margin: 8px 0;'>
-    ...
+    Part of the core team, focused on building Uplisting platform. 
   </p>
 </details>
 
