@@ -8,21 +8,21 @@ Focused on growing within dynamic teams and driving impactful development projec
 
 ## Exp log:
 
-`OCT '25` - `now` - [Menu.pl](https://menu.pl/)
-
-<details style='margin: 4px 0 14px 0'>
-  <summary>More info</summary>
-  <p style='margin: 8px 0;'>
-    Expanding the app with new features & building mobile apps for clinets using CapacitorJS
-  </p>
-</details>
-
 `NOV '25` - `now` - [AirDNA](https://airdna.co/)
 
 <details style='margin: 4px 0 14px 0'>
   <summary>More info</summary>
   <p style='margin: 8px 0;'>
     Part of the core team, focused on building Uplisting platform. 
+  </p>
+</details>
+
+`OCT '25` - `APR '26` - [Menu.pl](https://menu.pl/)
+
+<details style='margin: 4px 0 14px 0'>
+  <summary>More info</summary>
+  <p style='margin: 8px 0;'>
+    Expanding the app with new features & building mobile apps for clinets using CapacitorJS
   </p>
 </details>
 
