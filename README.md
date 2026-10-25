@@ -2,13 +2,13 @@
 
 ## Hi there 👋🏻
 
-I’m a dedicated software developer with 5 years of full-stack development experience. I've worked in software house for startups and contributed to a product company.
+I’m a dedicated software developer with 5+ years of full-stack development experience. I've worked in software house for startups and contributed to a product company.
 
 Focused on growing within dynamic teams and driving impactful development projects.
 
 ## Exp log:
 
-`NOV '25` - `now` - [AirDNA](https://airdna.co/)
+`NOV '25` - `JUN '26` - [AirDNA](https://airdna.co/)
 
 <details style='margin: 4px 0 14px 0'>
   <summary>More info</summary>
